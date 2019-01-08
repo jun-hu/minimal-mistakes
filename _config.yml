@@ -111,7 +111,7 @@ author:
   links:
     - label: "steve.jh.kang@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:steve.jh.kang@gmail.com
+      #url: mailto:steve.jh.kang@gmail.com
     - label: "github.io"
       icon: "fas fa-fw fa-link"
       url: "https://stevejhkang.github.io"
