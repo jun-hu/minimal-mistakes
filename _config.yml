@@ -109,10 +109,10 @@ author:
   location         : "Youngin, Republic of Korea"
   email            : "steve.jh.kang@gmail.com"
   links:
-    - label: "Email"
+    - label: "steve.jh.kang@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:steve.jh.kang@gmail.com
-    - label: "Website"
+    - label: "github.io"
       icon: "fas fa-fw fa-link"
       url: "https://stevejhkang.github.io"
     - label: "Twitter"
@@ -121,7 +121,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "https://github.com/stevejhkang"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/stevejhkang"
     - label: "Instagram"
@@ -148,7 +148,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      #url: 
 
 
 # Reading Files
@@ -287,6 +287,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
