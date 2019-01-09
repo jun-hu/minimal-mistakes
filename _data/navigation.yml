@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Cloud"
-    url: /_posts/Cloud/
-  - title: "About"
-    url: /_posts/about/
-  - title: "Sample Posts"
-    url: naver.com
+  - title: "Portfolio"
+    url: /Portfolio/
+    #- title: "About"
+    #  url: /_posts/about/
+    #- title: "Sample Posts"
+    #  url: naver.com
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
