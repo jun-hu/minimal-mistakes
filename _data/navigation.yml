@@ -12,46 +12,27 @@ main:
   #   url: /sitemap/
   #
 posts:
-  - title: Getting Started
+  - title: Cloud
     children:
-      - title: "Quick-Start Guide"
+      - title: "Kubernetes"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "System architecture"
         url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
 
-  - title: Customization
+  - title: Bigdata
     children:
-      - title: "Configuration"
+      - title: "Spark"
         url: /docs/configuration/
-      - title: "Navigation"
+      - title: "Hadoop"
         url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
 
-  - title: Content
+  - title: Algorithm
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+    url: /doc/algorithm
 
   - title: Extras
     children:
-      - title: "Stylesheets"
+      - title: "Linux"
         url: /docs/stylesheets/
       - title: "JavaScript"
         url: /docs/javascript/
