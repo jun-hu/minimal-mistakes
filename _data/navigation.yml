@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Portfolio"
-    url: /Portfolio/
-    #- title: "About"
-    #  url: /_posts/about/
+    url: /portfolio/
+  - title: "Category"
+    url: /categories/
     #- title: "Sample Posts"
     #  url: naver.com
   # - title: "Sample Collections"
@@ -15,24 +15,24 @@ posts:
   - title: Cloud
     children:
       - title: "Kubernetes"
-        url: /kubernetes/
+        url: /categories/kubernetes/
       - title: "System Engineering"
-        url: /se/
+        url: /categories/se/
 
   - title: Bigdata
     children:
       - title: "Spark"
-        url: /spark/
+        url: /categories/spark/
       - title: "Hadoop"
-        url: /hadoop/
+        url: /categories/hadoop/
 
   - title: Algorithm
     children:
-    url: /algorithm
+    url: /categories/algorithm
 
   - title: Extras
     children:
       - title: "Linux"
-        url: /linux/
+        url: /categories/linux/
       - title: "JavaScript"
-        url: /javascript/
+        url: /categories/javascript/
