@@ -15,24 +15,24 @@ posts:
   - title: Cloud
     children:
       - title: "Kubernetes"
-        url: /categories/kubernetes/
+        url: /categories/#kubernetes/
       - title: "System Engineering"
-        url: /categories/se/
+        url: /categories/#se/
 
   - title: Bigdata
     children:
       - title: "Spark"
-        url: /categories/spark/
+        url: /categories/#spark/
       - title: "Hadoop"
-        url: /categories/hadoop/
+        url: /categories/#hadoop/
 
   - title: Algorithm
     children:
-    url: /categories/algorithm
+    url: /categories/#algorithm
 
   - title: Extras
     children:
       - title: "Linux"
-        url: /categories/linux/
+        url: /categories/#linux/
       - title: "JavaScript"
-        url: /categories/javascript/
+        url: /categories/#javascript/
