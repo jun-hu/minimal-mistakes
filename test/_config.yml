@@ -187,6 +187,9 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+#dir
+category_dir: category/
+tag_dir: tag/
 
 # Outputting
 permalink: /:categories/:title/

@@ -1,4 +1,4 @@
-# main links
+# main links url은 _pages 폴더 안에 있는 페이지의 permalink와 연결된다.
 main:
   - title: "Portfolio"
     url: /portfolio/
