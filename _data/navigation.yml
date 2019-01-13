@@ -28,7 +28,16 @@ posts:
 
   - title: Algorithm
     children:
-    url: /categories/#algorithm
+      - title: "Essential"
+        url: /categories/#essential/
+      - title: "Data Structure"
+        url: /categories/#datastructure/
+      - title: "Sort"
+        url: /categories/#sort/
+      - title: "Search and Hash"
+        url: /categories/#search_hash/
+      - title: "2019_Algorithm"
+        url: /categories/#2019algorithm/
 
   - title: Extras
     children:
