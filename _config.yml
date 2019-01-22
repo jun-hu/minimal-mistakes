@@ -286,5 +286,6 @@ defaults:
           type: pages
     values:
           layout: single
+          comments: true
           sidebar:
                   nav: "posts"
