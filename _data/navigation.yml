@@ -45,3 +45,5 @@ posts:
         url: /categories/#linux/
       - title: "JavaScript"
         url: /categories/#javascript/
+      - title: "Network"
+        url: /categories/#network/
