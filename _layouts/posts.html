@@ -13,7 +13,9 @@ layout: archive
       </a>
     </li>
   {% endfor %}
-   {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
+    {% if page.comments %}
+        <-- add your code here -->
+    {% endif %}
    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 </ul>
 
