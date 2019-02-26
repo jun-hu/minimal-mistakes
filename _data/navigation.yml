@@ -14,8 +14,10 @@ main:
 posts:
   - title: Cloud
     children:
-      - title: "Kubernetes"
-        url: /categories/#kubernetes/
+      - title: "Docker & Kubernetes"
+        url: /categories/#dockerkubernetes/
+      - title: "Prometheus & Grafana"
+        url: /categories/#prometheusgrafana/
       - title: "System Engineering"
         url: /categories/#se/
 
